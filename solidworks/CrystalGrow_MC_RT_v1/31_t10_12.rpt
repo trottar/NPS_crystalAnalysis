@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : MODEL2
+Receiving System Product I.D.: MODEL2
+File Name                    : C:\TPO v2\SharedFS\Outgoing\31_t10_12.igs
+Sending System               :  by Parametric Technology Corporation
+Preprocessor Version         : 2012420
+File Creation Date           : 20161020.201454
+Model Creation Date          : 20161020.201454
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 
+Organization                 : Unknown
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:              13
+  Highest number of significant digits:                     13
+  Average number of significant digits:                9.17054
+  Maximum distance to origin:                          52.9205
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   13
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                            184       184
+110  Line                                           374       374
+112  Parametric spline curve                         48        48
+114  Parametric spline surface                       63        63
+120  Surface of revolution                           90        90
+124  Transformation matrix                          184       184
+186  Manifold Solid B-rep Object                      1         1
+502  Vertex list                                      1         1
+504  Edge entity                                      1         1
+508  Loop entity                                    156       156
+510  Face entity                                    153       153
+514  Shell entity                                     1         1
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       1
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Friday, February 10, 2017 13:26:03
+Finish time: Friday, February 10, 2017 13:26:10
+Processing time: 0 days, 00 hours, 00 mins, 07 secs

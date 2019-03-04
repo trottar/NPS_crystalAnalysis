@@ -1,0 +1,6 @@
+echo "E" >> /dev/ttyUSB0
+echo "C" >> /dev/ttyUSB0
+echo "setM1M3" >> /dev/ttyUSB0
+echo "S1M260" >> /dev/ttyUSB0
+echo "I1M0" >> /dev/ttyUSB0
+echo "I1M2000" >> /dev/ttyUSB0

@@ -1,0 +1,10 @@
+Specifications of the stepper motor:
+400 steps per revolution
+0.050 inch per revolution
+= 0.000125 inch per step (3.175 micrometers per step) of resolution
+
+Sources:
+http://www.velmex.com/motor_lead_speed.html
+http://www.velmex.com/bislide/motor_bislide.html
+http://www.velmex.com/pdf/other/xslide.pdf
+http://www.velmex.com/xslide/xslide_mounting_hardware.html
